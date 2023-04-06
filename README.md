@@ -8,4 +8,4 @@ Some examples of basic dashboards made in Apache Superset are presented.
 
 The dashboard ***'Some particular tasks'*** contains several implementations related to the _Retention rate_ and _Churn rate_ metrics: visualization of Retention by slice ‘source’; the classic version of retention visualization through a heat map; a graph that allows you to look at the active audience from the point of view of new, old and departed users (new - the first activity in the feed was this week, old - there was activity both this and last week, gone - there was activity last week, on this one was not).
 
-***Alert_system_dashboard*** is intended to serve as a source of additional information when building a more advanced (compared to previously posted) notification system for our application.
+***'Alert_system_dashboard'*** is intended to serve as a source of additional information when building a more advanced (compared to previously posted) notification system for our application.
